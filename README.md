@@ -1,9 +1,5 @@
 ## Base Project Sample For Development
 
-
-# TEMPLATE PROJECT BASED
-
-## b4ngm4m4n
 ## How To Install Project
 
 ### Clone this project 
