@@ -1,6 +1,5 @@
-## Base Project Sample For Development
-
-## How To Install Project
+## Base Template Readme Project Sample
+this base template README.md for your project installation
 
 ### Clone this project 
 ```bash
